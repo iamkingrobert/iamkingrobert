@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm King Robert Kehinde, currently am a freelance front-end developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm King Robert Kehinde, currently am a freelance front-end developer 🚀</div>  
   
 
 - 🔭 I’m currently working on [e-Cedi - Fin-Tech App](https://github.com/iamkingrobert/e-cedi) and [afroTravel - Booking App](https://github.com/iamkingrobert/afroTravel)  
