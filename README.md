@@ -6,7 +6,7 @@
 ### <div align="center">I'm King Robert Kehinde, currently am a freelance front-end developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [e-Cedi - Fin-Tech App](https://github.com/iamkingrobert/e-cedi) and [afroTravel - Booking App](https://github.com/iamkingrobert/afroTravel)  
+- 🔭 I’m currently working on [e-Cedi - Fin-Tech App](https://github.com/iamkingrobert/e-cedi) and [Hotel - Booking App](https://github.com/iamkingrobert/afroTravel)  
   
 
 - 🌱 I’m currently learning React Native while i master React  
