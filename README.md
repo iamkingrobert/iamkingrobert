@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm King Robert Kehinde, Software Enginer, Coding Instructor X Technical Writer 🚀</div>  
+### <div align="center">Software Enginer, Coding Bootcamp Instructor X Technical Writer 🚀</div>  
   
 
 - 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor) and [Pocket Investor Web App](https://github.com/iamkingrobert/pocket_web)  
