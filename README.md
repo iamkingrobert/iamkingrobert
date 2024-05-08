@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm King Robert Kehinde, currently am a freelance front-end developer 🚀</div>  
+### <div align="center">I'm King Robert Kehinde, Software Enginer, Coding Instructor X Technical Writer 🚀</div>  
   
 
-- 🔭 I’m currently working on [e-Cedi - Fin-Tech App](https://github.com/iamkingrobert/e-cedi) and [Hotel - Booking App](https://github.com/iamkingrobert/afroTravel)  
+- 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor) and [Pocket Investor Web App](https://github.com/iamkingrobert/pocket_web)  
   
 
-- 🌱 I’m currently learning React Native while i master React  
+- 🌱 I’m currently learning Cyber Security while I master Technical Writing
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓  My tech stack includes MongoDB, Express.js, React.js, Node.js, and React Native, highlighting my affinity for JavaScript
   
 
 - ⚡ Fun fact: I have over 40 Mozila Firefox tabs currently open.  
