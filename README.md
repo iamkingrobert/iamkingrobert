@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Software Enginer, Full Stack Software Engineering Bootcamp Instructor  🚀</div>  
+### <div align="center">Full Stack Software Enginer X Full Stack Software Engineering Bootcamp Instructor  🚀</div>  
   
 
 - 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor)
