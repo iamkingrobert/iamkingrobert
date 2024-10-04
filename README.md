@@ -3,13 +3,12 @@
 </div>  
   
 
-### <div align="center">Software Enginer, Coding Bootcamp Instructor X Technical Writer 🚀</div>  
+### <div align="center">Software Enginer, Full Stack Software Engineering Bootcamp Instructor  🚀</div>  
   
 
-- 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor) and [Pocket Investor Web App](https://github.com/iamkingrobert/pocket_web)  
-  
+- 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor)
 
-- 🌱 I’m currently learning Cyber Security while I master Technical Writing
+- 🌱 I’m currently learning Cloud Computing while I master Technical Writing.
   
 
 - ❓  My tech stack includes MongoDB, Express.js, React.js, Node.js, and React Native, highlighting my affinity for JavaScript
