@@ -6,7 +6,7 @@
 ### <div align="center">Software Enginer, CIO: Anchor Bridge Consulting, FL,USA🚀</div>  
   
 
-- 🌱 I recently find that I love IaC.
+- 🌱 I recently find that i am enjoying Infracstructure as Code.
   
 
 - ❓  Tech Stack: JavaScript, TypeScript and Python.
