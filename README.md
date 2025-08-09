@@ -3,18 +3,16 @@
 </div>  
   
 
-### <div align="center">Full Stack Software Enginer X Full Stack Software Engineering Bootcamp Instructor  🚀</div>  
+### <div align="center">Software Enginer, CIO: Anchor Bridge Consulting, FL,USA🚀</div>  
   
 
-- 🔭 I’m currently working on [Pocket Investor - Mobile Fin-Tech App](https://github.com/iamkingrobert/Pocket-investor)
-
-- 🌱 I’m currently learning Cloud Computing while I master Technical Writing.
+- 🌱 I recently find that I love IaC.
   
 
-- ❓  My tech stack includes MongoDB, Express.js, React.js, Node.js, and React Native, highlighting my affinity for JavaScript
+- ❓  Tech Stack: JavaScript, TypeScript and Python.
   
 
-- ⚡ Fun fact: I have over 40 Mozila Firefox tabs currently open.  
+- ⚡ Fun fact: I am a huge fan of Hans Zimmer.  
   
 
 <br/>  
